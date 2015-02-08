@@ -3,7 +3,11 @@
 body {
 	background: blue;
 	color: white;
+	font-size: 18px;
 }
 h1{
 	color: yellow;
+}
+h2{
+	color: orange;
 }
