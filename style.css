@@ -11,3 +11,11 @@ h1{
 h2{
 	color: orange;
 }
+p.file{
+	font-weight: 140%;
+	font-family: monospace;
+	}
+p.text{
+	font-size: 16px;
+	font-family: arial;
+}
