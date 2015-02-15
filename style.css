@@ -19,3 +19,8 @@ p.text{
 	font-size: 16px;
 	font-family: arial;
 }
+blockquote{
+	background: url('http://vignette3.wikia.nocookie.net/prenistoricpark/images/3/3e/Astraspis_desiderata.gif/revision/latest?cb=20140126180136&path-prefix=ru');
+	background-repeat: no-repeat;
+	background-position: 15%;
+}
