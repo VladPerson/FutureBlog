@@ -5,19 +5,19 @@ body {
 	color: white;
 	font-size: 18px;
 }
-h1{
+h1.real{
 	color: yellow;
-	font-style: italic;
+	font-style: strong;
 }
-h2{
+h2.dream{
 	color: orange;
-	font-style: italic;
+	font-style: strong;
 }
-p.one{
+p.real{
 	font-weight: normal;
 	font-family: monospace;
 	}
-p.two{
+p.dream{
 	font-size: 16px;
 	font-family: arial;
 }
