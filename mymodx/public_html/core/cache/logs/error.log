@@ -335,3 +335,66 @@ OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpt
 [2016-03-27 23:21:32] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: C:\OpenServer\domains\mymodx\public_html\core\cache\phpthumb\mymodx__srcf5fcb35f2e70d1f58f914b5a806de77f_par397327b300e2532553c171cb19a456f3_dat0.jpeg
 [2016-03-27 23:21:32] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
 OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-03-27 23:38:58] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: C:\OpenServer\domains\mymodx\public_html\core\cache\phpthumb\mymodx__srcf5fcb35f2e70d1f58f914b5a806de77f_par397327b300e2532553c171cb19a456f3_dat0.jpeg
+[2016-03-27 23:38:58] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-03-27 23:41:02] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: C:\OpenServer\domains\mymodx\public_html\core\cache\phpthumb\mymodx__srcf5fcb35f2e70d1f58f914b5a806de77f_par397327b300e2532553c171cb19a456f3_dat0.jpeg
+[2016-03-27 23:41:02] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-03-27 23:42:26] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: C:\OpenServer\domains\mymodx\public_html\core\cache\phpthumb\mymodx__srcf5fcb35f2e70d1f58f914b5a806de77f_par397327b300e2532553c171cb19a456f3_dat0.jpeg
+[2016-03-27 23:42:26] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-03-28 00:05:01] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: C:\OpenServer\domains\mymodx\public_html\core\cache\phpthumb\mymodx__srcf5fcb35f2e70d1f58f914b5a806de77f_par397327b300e2532553c171cb19a456f3_dat0.jpeg
+[2016-03-28 00:05:02] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-03-28 00:06:47] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: C:\OpenServer\domains\mymodx\public_html\core\cache\phpthumb\mymodx__srcf5fcb35f2e70d1f58f914b5a806de77f_par397327b300e2532553c171cb19a456f3_dat0.jpeg
+[2016-03-28 00:06:47] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-03-28 00:14:32] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: C:\OpenServer\domains\mymodx\public_html\core\cache\phpthumb\mymodx__srcf5fcb35f2e70d1f58f914b5a806de77f_par397327b300e2532553c171cb19a456f3_dat0.jpeg
+[2016-03-28 00:14:32] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-03-28 00:17:29] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: C:\OpenServer\domains\mymodx\public_html\core\cache\phpthumb\mymodx__srcf5fcb35f2e70d1f58f914b5a806de77f_par397327b300e2532553c171cb19a456f3_dat0.jpeg
+[2016-03-28 00:17:29] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-03-28 00:19:41] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: C:\OpenServer\domains\mymodx\public_html\core\cache\phpthumb\mymodx__srcf5fcb35f2e70d1f58f914b5a806de77f_par397327b300e2532553c171cb19a456f3_dat0.jpeg
+[2016-03-28 00:19:41] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-03-28 00:20:55] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: C:\OpenServer\domains\mymodx\public_html\core\cache\phpthumb\mymodx__srcf5fcb35f2e70d1f58f914b5a806de77f_par397327b300e2532553c171cb19a456f3_dat0.jpeg
+[2016-03-28 00:20:55] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-03-28 00:22:13] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: C:\OpenServer\domains\mymodx\public_html\core\cache\phpthumb\mymodx__srcf5fcb35f2e70d1f58f914b5a806de77f_par397327b300e2532553c171cb19a456f3_dat0.jpeg
+[2016-03-28 00:22:13] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-03-28 00:25:08] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: C:\OpenServer\domains\mymodx\public_html\core\cache\phpthumb\mymodx__srcf5fcb35f2e70d1f58f914b5a806de77f_par397327b300e2532553c171cb19a456f3_dat0.jpeg
+[2016-03-28 00:25:08] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-03-28 00:25:22] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: C:\OpenServer\domains\mymodx\public_html\core\cache\phpthumb\mymodx__srcf5fcb35f2e70d1f58f914b5a806de77f_par397327b300e2532553c171cb19a456f3_dat0.jpeg
+[2016-03-28 00:25:22] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-03-28 00:26:23] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: C:\OpenServer\domains\mymodx\public_html\core\cache\phpthumb\mymodx__srcf5fcb35f2e70d1f58f914b5a806de77f_par397327b300e2532553c171cb19a456f3_dat0.jpeg
+[2016-03-28 00:26:23] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-03-28 00:30:24] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: C:\OpenServer\domains\mymodx\public_html\core\cache\phpthumb\mymodx__srcf5fcb35f2e70d1f58f914b5a806de77f_par397327b300e2532553c171cb19a456f3_dat0.jpeg
+[2016-03-28 00:30:24] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-03-28 00:32:11] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: C:\OpenServer\domains\mymodx\public_html\core\cache\phpthumb\mymodx__srcf5fcb35f2e70d1f58f914b5a806de77f_par397327b300e2532553c171cb19a456f3_dat0.jpeg
+[2016-03-28 00:32:11] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-03-28 00:33:49] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: C:\OpenServer\domains\mymodx\public_html\core\cache\phpthumb\mymodx__srcf5fcb35f2e70d1f58f914b5a806de77f_par397327b300e2532553c171cb19a456f3_dat0.jpeg
+[2016-03-28 00:33:50] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-03-28 00:35:22] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: C:\OpenServer\domains\mymodx\public_html\core\cache\phpthumb\mymodx__srcf5fcb35f2e70d1f58f914b5a806de77f_par397327b300e2532553c171cb19a456f3_dat0.jpeg
+[2016-03-28 00:35:22] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-03-28 00:36:44] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: C:\OpenServer\domains\mymodx\public_html\core\cache\phpthumb\mymodx__srcf5fcb35f2e70d1f58f914b5a806de77f_par397327b300e2532553c171cb19a456f3_dat0.jpeg
+[2016-03-28 00:36:44] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-03-28 00:38:03] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: C:\OpenServer\domains\mymodx\public_html\core\cache\phpthumb\mymodx__srcf5fcb35f2e70d1f58f914b5a806de77f_par397327b300e2532553c171cb19a456f3_dat0.jpeg
+[2016-03-28 00:38:03] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-03-28 00:39:40] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: C:\OpenServer\domains\mymodx\public_html\core\cache\phpthumb\mymodx__srcf5fcb35f2e70d1f58f914b5a806de77f_par397327b300e2532553c171cb19a456f3_dat0.jpeg
+[2016-03-28 00:39:40] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2016-03-28 00:41:14] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: C:\OpenServer\domains\mymodx\public_html\core\cache\phpthumb\mymodx__srcf5fcb35f2e70d1f58f914b5a806de77f_par397327b300e2532553c171cb19a456f3_dat0.jpeg
+[2016-03-28 00:41:14] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
